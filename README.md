@@ -4,4 +4,4 @@ this is paymentdiary app
 
 #### License
 
-MIT
+MIT# paymentdiary
