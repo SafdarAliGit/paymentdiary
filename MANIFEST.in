@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include paymentdiary *.css
+recursive-include paymentdiary *.csv
+recursive-include paymentdiary *.html
+recursive-include paymentdiary *.ico
+recursive-include paymentdiary *.js
+recursive-include paymentdiary *.json
+recursive-include paymentdiary *.md
+recursive-include paymentdiary *.png
+recursive-include paymentdiary *.py
+recursive-include paymentdiary *.svg
+recursive-include paymentdiary *.txt
+recursive-exclude paymentdiary *.pyc
